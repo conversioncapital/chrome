@@ -15,6 +15,7 @@ RUN apt-get update \
 	supervisor \
 	x11vnc \
 	fluxbox \
+	xz-utils \
 	eterm
 
 ADD https://dl.google.com/linux/linux_signing_key.pub \
